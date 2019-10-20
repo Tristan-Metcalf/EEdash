@@ -1,0 +1,46 @@
+img {
+  height: 50px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  position: absolute;
+}
+
+body {
+  background-color: rgb(1, 0, 102);
+}
+h1 {
+  background-color: rgb(1, 0, 102);
+  color: white;
+  margin: 30px;
+  padding: 30px;
+}
+
+.Birthdays {
+  color: white;
+  font-size: 32px;
+  text-align: center;
+}
+
+#page-container {
+  position: relative;
+  min-height: 100vh;
+}
+
+#content-wrap {
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+.flex-container {
+  display: wrap;
+  flex-wrap: wrap;
+}
+
+.flex-container > div {
+  font-size: 25px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
