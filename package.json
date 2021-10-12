@@ -5,7 +5,7 @@
   "main": "Main.js",
   "dependencies": {
     "csv-parser": "^2.3.1",
-    "electron": "^6.0.12"
+    "electron": "^11.5.0"
   },
   "devDependencies": {},
   "scripts": {
